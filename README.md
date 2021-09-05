@@ -1,2 +1,2 @@
-# cod-activity
+# code-activity
 Just playing with code
